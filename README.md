@@ -1,5 +1,4 @@
 # BubbleSortMethod
-Bubble Sort Method
 public class BubbleSortMethod {
     public static void main(String[] args) {
         int[] num = new int[5];
